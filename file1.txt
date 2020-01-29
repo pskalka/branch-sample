@@ -1,7 +1,8 @@
 file 1
 master
-version 1
+version 2
 
 alfa
 bravo
 charlie
+delta
