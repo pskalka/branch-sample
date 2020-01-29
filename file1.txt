@@ -1,7 +1,7 @@
 file 1
-master
-version 1
+other
+version 4
 
-alfa
 bravo
 charlie
+fox-trot
